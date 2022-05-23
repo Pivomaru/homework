@@ -38,4 +38,4 @@ config --global user.email ваша почта@example.com
 
  Чтобы вернуться обратно нужно:
  >git checkout master
- 
+ ![не загрузилась картинка](download.jpg)
