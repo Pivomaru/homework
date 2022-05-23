@@ -5,5 +5,9 @@
 >git init
 
 В первый раз нужно написать команды:
->git config --global user.name «Ваше имя английскими буквами» git
+>git config --global user.name «Ваше имя английскими буквами»
+
+> git
 config --global user.email ваша почта@example.com
+
+## Добавление информации в репозиторий
