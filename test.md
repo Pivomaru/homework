@@ -56,3 +56,7 @@ config --global user.email ваша почта@example.com
 
 Чтобы удалить ветку:
 > git branch -d имя_ветки
+
+Чтобы совместить ветки:
+> git merge имя_ветки
+
