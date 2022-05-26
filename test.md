@@ -61,3 +61,4 @@ config --global user.email ваша почта@example.com
 > git merge имя_ветки
 
 На улице дождь.
+
