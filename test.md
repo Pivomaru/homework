@@ -53,3 +53,6 @@ config --global user.email ваша почта@example.com
 Чтобы перейти на ветку branch_name:
 >git checkout имя_ветки
 
+
+Чтобы удалить ветку:
+> git branch -d имя_ветки
