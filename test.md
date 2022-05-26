@@ -47,3 +47,5 @@ config --global user.email ваша почта@example.com
 Для просмотра списка всех веток:
 > git branch
 
+Для создание ветки с именем:
+> git branch имя_ветки
