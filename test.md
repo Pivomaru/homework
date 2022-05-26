@@ -41,3 +41,9 @@ config --global user.email ваша почта@example.com
 
 ## Котик
  ![не загрузилась картинка](download.jpg)
+
+## Работа с ветками 
+
+Для просмотра списка всех веток:
+> git branch
+
