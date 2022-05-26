@@ -56,3 +56,5 @@ config --global user.email ваша почта@example.com
 
 Чтобы удалить ветку:
 > git branch -d имя_ветки
+
+FATAL ERROR
