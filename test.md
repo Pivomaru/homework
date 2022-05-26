@@ -30,7 +30,7 @@ config --global user.email ваша почта@example.com
  >git log
 
  Для отоброжений текущих изменений по сравнению с внесеннымии в репозиторий:
- >123123
+ >git diff
  
  ## Переход к прошлым коммитам 
  Для перехода к коммиту с кодом commit_code, можно использовать:
@@ -56,5 +56,3 @@ config --global user.email ваша почта@example.com
 
 Чтобы удалить ветку:
 > git branch -d имя_ветки
-
-FATAL ERROR
