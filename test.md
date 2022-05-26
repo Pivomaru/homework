@@ -49,3 +49,7 @@ config --global user.email ваша почта@example.com
 
 Для создание ветки с именем:
 > git branch имя_ветки
+
+Чтобы перейти на ветку branch_name:
+>git checkout имя_ветки
+
